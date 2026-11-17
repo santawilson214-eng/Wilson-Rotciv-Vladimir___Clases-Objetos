@@ -31,13 +31,13 @@ Código, nombre, precio, cantidad y valor total de cada producto registrado.
 #Capturas de ejecución
 
 ### Datos válidos
-![Datos válidos](capturas/valido.png)
+![Datos válidos](capturas/valido.png.png)
 
 ### Precio negativo
-![Precio negativo](capturas/precio-negativo.png)
+![Precio negativo](capturas/precio-negativo.png.png)
 
 ### Nombre vacío
-![Nombre vacío](capturas/nombre-vacio.png)
+![Nombre vacío](capturas/nombre-vacio.png.png)
 
 ### Cantidad cero
-![Cantidad cero](capturas/cantidad-cero.png)
+![Cantidad cero](capturas/cantidad-cero.png.png)
